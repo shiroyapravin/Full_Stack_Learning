@@ -1,0 +1,19 @@
+div {
+    color: brown;
+    font-size: larger;
+}
+
+button {
+    color: tomato;
+    background-color: lightgoldenrodyellow;
+}
+
+span {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: blue wavy overline;
+    line-height: 50px;
+    letter-spacing: 5px;
+    word-spacing: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
