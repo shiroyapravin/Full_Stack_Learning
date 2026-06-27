@@ -1,0 +1,30 @@
+* {
+    background-color: black;
+}
+
+#box {
+    background-color: white;
+    width: 70px;
+    height: 200px;
+    border: 2px solid grey;
+}
+
+div > div {
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: green;
+}
